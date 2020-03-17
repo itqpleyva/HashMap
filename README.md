@@ -1,5 +1,5 @@
 # HashMap
-Repo to Study HasMap collection
+Repo to Study HasMap Collection
 
 public class HashMapMain {
 
